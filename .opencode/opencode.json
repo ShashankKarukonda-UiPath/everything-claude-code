@@ -411,26 +411,6 @@
     "skill-create": {
       "description": "Generate skills from git history",
       "template": "{file:commands/skill-create.md}\n\n$ARGUMENTS"
-    },
-    "instinct-status": {
-      "description": "View learned instincts",
-      "template": "{file:commands/instinct-status.md}\n\n$ARGUMENTS"
-    },
-    "instinct-export": {
-      "description": "Export instincts",
-      "template": "{file:commands/instinct-export.md}\n\n$ARGUMENTS"
-    },
-    "evolve": {
-      "description": "Cluster instincts into skills",
-      "template": "{file:commands/evolve.md}\n\n$ARGUMENTS"
-    },
-    "promote": {
-      "description": "Promote project instincts to global scope",
-      "template": "{file:commands/promote.md}\n\n$ARGUMENTS"
-    },
-    "projects": {
-      "description": "List known projects and instinct stats",
-      "template": "{file:commands/projects.md}\n\n$ARGUMENTS"
     }
   },
   "permission": {

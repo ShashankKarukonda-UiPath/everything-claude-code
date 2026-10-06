@@ -191,7 +191,6 @@
     "skills/connections-optimizer/",
     "skills/content-hash-cache-pattern/",
     "skills/continuous-agent-loop/",
-    "skills/continuous-learning/",
     "skills/cost-aware-llm-pipeline/",
     "skills/cost-tracking/",
     "skills/council/",

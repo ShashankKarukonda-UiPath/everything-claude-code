@@ -36,7 +36,6 @@ skills:
   - content-hash-cache-pattern
   - context-budget
   - continuous-agent-loop
-  - continuous-learning
   - cost-aware-llm-pipeline
   - cpp-coding-standards
   - cpp-testing
@@ -150,7 +149,6 @@ commands:
   - epic-sync
   - epic-unblock
   - epic-validate
-  - evolve
   - fastapi-review
   - feature-dev
   - flutter-build
@@ -167,15 +165,11 @@ commands:
   - hookify-configure
   - hookify-help
   - hookify-list
-  - instinct-export
-  - instinct-status
-  - jira
   - kotlin-build
   - kotlin-review
   - kotlin-test
   - learn
   - learn-eval
-  - loop-start
   - loop-status
   - marketing-campaign
   - model-route
@@ -189,8 +183,6 @@ commands:
   - plan-canvas
   - plan-prd
   - pm2
-  - projects
-  - promote
   - project-init
   - pr
   - prp-commit
@@ -198,7 +190,6 @@ commands:
   - prp-plan
   - prp-pr
   - prp-prd
-  - prune
   - python-review
   - quality-gate
   - react-build
