@@ -27,10 +27,10 @@ For the full roster of 68 agents, see `/ecc:ecc-guide`.
 
 ## Immediate Agent Usage
 
-No user prompt needed:
+Use these when the task is substantial; for small or routine changes, skip them unless the user asks:
 1. Complex feature requests - Use **ecc:planner** agent
-2. Code just written/modified - Use **ecc:code-reviewer** agent
-3. Bug fix or new feature - Use **ecc:tdd-guide** agent
+2. Significant code just written/modified - Use **ecc:code-reviewer** agent
+3. Non-trivial bug fix or new feature - Use **ecc:tdd-guide** agent
 4. Architectural decision - Use **ecc:architect** agent
 
 ## Parallel Task Execution

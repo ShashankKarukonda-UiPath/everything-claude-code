@@ -1,7 +1,8 @@
 'use strict';
 
 // Claude Code appends a `Co-Authored-By` trailer to commits and PRs unless the
-// user opts out, so ECC-managed installs default that off.
+// user opts out. This fork leaves that default alone: installs never change the
+// user's commit attribution setting (AI-attribution policy).
 //
 // Two settings control the trailer. `attribution: { commit, pr }` is the current
 // one and wins when set; `includeCoAuthoredBy` is deprecated as of Claude Code
@@ -27,13 +28,7 @@ function hasExplicitCommitAttributionPreference(settings) {
 }
 
 function withCommitAttributionDisabled(settings) {
-  if (hasExplicitCommitAttributionPreference(settings)) {
-    return settings;
-  }
-  return {
-    ...settings,
-    [COAUTHOR_SETTING_KEY]: false,
-  };
+  return settings;
 }
 
 module.exports = {

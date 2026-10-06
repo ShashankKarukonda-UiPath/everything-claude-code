@@ -174,7 +174,6 @@
         "skills/frontend-design-direction",
         "skills/frontend-patterns",
         "skills/i18n-sync",
-        "skills/frontend-slides",
         "skills/make-interfaces-feel-better",
         "skills/golang-patterns",
         "skills/golang-testing",
@@ -184,7 +183,6 @@
         "skills/kotlin-ktor-patterns",
         "skills/kotlin-patterns",
         "skills/kotlin-testing",
-        "skills/laravel-plugin-discovery",
         "skills/laravel-patterns",
         "skills/laravel-tdd",
         "skills/laravel-verification",
@@ -206,7 +204,6 @@
         "skills/springboot-patterns",
         "skills/springboot-tdd",
         "skills/springboot-verification",
-        "skills/ui-to-vue",
         "skills/vue-patterns",
         "skills/accessibility",
         "skills/bun-runtime",
@@ -284,7 +281,6 @@
       "kind": "skills",
       "description": "Single-skill unified-memory guidance; requires the separately installed ecc-universal CLI runtime.",
       "paths": [
-        "skills/unified-memory"
       ],
       "targets": [
         "claude",
@@ -318,11 +314,9 @@
         "skills/agent-sort",
         "skills/agent-introspection-debugging",
         "skills/ai-regression-testing",
-        "skills/configure-ecc",
         "skills/code-tour",
         "skills/continuous-learning",
         "skills/council",
-        "skills/council-multi-model",
         "skills/dev-team",
         "skills/e2e-testing",
         "skills/error-handling",
@@ -331,11 +325,9 @@
         "skills/iterative-retrieval",
         "skills/plan-canvas",
         "skills/production-audit",
-        "skills/skill-comply",
         "skills/skill-scout",
         "skills/skill-stocktake",
         "skills/strategic-compact",
-        "skills/tdd-workflow",
         "skills/verification-loop",
         "skills/windows-desktop-e2e",
         "skills/agent-self-evaluation",
@@ -343,7 +335,6 @@
         "skills/browser-qa",
         "skills/click-path-audit",
         "skills/codebase-onboarding",
-        "skills/codehealth-mcp",
         "skills/config-gc",
         "skills/context-budget",
         "skills/delivery-gate",
@@ -354,7 +345,6 @@
         "skills/intent-driven-development",
         "skills/living-docs-governance",
         "skills/loop-design-check",
-        "skills/product-lens",
         "skills/repo-scan",
         "skills/rules-distill",
         "skills/santa-method",
@@ -466,14 +456,12 @@
       "kind": "skills",
       "description": "Research and API integration skills for deep investigations and model integrations.",
       "paths": [
-        "skills/deep-research",
         "skills/research-ops",
         "skills/scientific-db-pubmed-database",
         "skills/scientific-db-uspto-database",
         "skills/scientific-pkg-gget",
         "skills/scientific-thinking-literature-review",
-        "skills/scientific-thinking-scholar-evaluation",
-        "skills/documentation-lookup"
+        "skills/scientific-thinking-scholar-evaluation"
       ],
       "targets": [
         "claude",
@@ -501,7 +489,6 @@
       "paths": [
         "skills/article-writing",
         "skills/brand-voice",
-        "skills/content-engine",
         "skills/investor-materials",
         "skills/investor-outreach",
         "skills/product-capability",
@@ -544,15 +531,9 @@
         "skills/dashboard-builder",
         "skills/ecc-tools-cost-audit",
         "skills/email-ops",
-        "skills/finance-billing-ops",
-        "skills/github-ops",
         "skills/google-workspace-ops",
-        "skills/jira-integration",
-        "skills/project-flow-ops",
-        "skills/terminal-ops",
         "skills/unified-notifications-ops",
-        "skills/workspace-surface-audit",
-        "skills/mailtrap-email-integration"
+        "skills/workspace-surface-audit"
       ],
       "targets": [
         "claude",
@@ -578,7 +559,6 @@
       "kind": "skills",
       "description": "Public, non-advisory prediction-market workflows and the consolidated read-only Ito baskets data skill with gated Ito API access.",
       "paths": [
-        "skills/ito-baskets",
         "skills/prediction-market-oracle-research",
         "skills/prediction-market-risk-review"
       ],
@@ -608,7 +588,6 @@
       "kind": "skills",
       "description": "Generic operator desk patterns: never-silent approval loop, counterparty channel discipline, master agreement generation with a rolling schedule, and deterministic e-signature field placement.",
       "paths": [
-        "skills/operator-approval-loop",
         "skills/counterparty-channel-discipline",
         "skills/master-agreement-generator",
         "skills/esign-field-placement"
@@ -635,9 +614,6 @@
       "kind": "skills",
       "description": "Authenticated It\u00f4 GPU inventory, RFQ, status, device revocation, and explicitly gated node-qualification workflows through the separately installed canonical CLI.",
       "paths": [
-        "skills/ito-compute",
-        "skills/ito-inference",
-        "skills/ito-training"
       ],
       "targets": [
         "claude",
@@ -668,7 +644,6 @@
       "kind": "skills",
       "description": "Experimental Nasiko CLI lifecycle bridge guidance for pinned installation, read-only status, qualified uninstall, and opt-in telemetry boundaries.",
       "paths": [
-        "skills/nasiko-control-plane"
       ],
       "targets": [
         "claude",
@@ -698,8 +673,6 @@
       "kind": "skills",
       "description": "Social publishing and distribution skills.",
       "paths": [
-        "skills/crosspost",
-        "skills/x-api"
       ],
       "targets": [
         "claude",
@@ -729,11 +702,7 @@
         "skills/manim-video",
         "skills/remotion-video-creation",
         "skills/ui-demo",
-        "skills/video-editing",
-        "skills/taste",
-        "skills/tasteforge-video",
-        "skills/taste-distillation",
-        "skills/taste-application"
+        "skills/video-editing"
       ],
       "targets": [
         "claude",
@@ -762,8 +731,7 @@
         "scripts/lib/tmux-worktree-orchestrator.js",
         "scripts/orchestrate-codex-worker.sh",
         "scripts/orchestrate-worktrees.js",
-        "scripts/orchestration-status.js",
-        "skills/dmux-workflows"
+        "scripts/orchestration-status.js"
       ],
       "targets": [
         "claude",
@@ -789,8 +757,7 @@
         "skills/swift-actor-persistence",
         "skills/swift-concurrency-6-2",
         "skills/swift-protocol-di-testing",
-        "skills/swiftui-patterns",
-        "skills/ios-icon-gen"
+        "skills/swiftui-patterns"
       ],
       "targets": [
         "claude",
@@ -832,9 +799,7 @@
         "skills/prompt-optimizer",
         "skills/ralphinho-rfc-pipeline",
         "skills/regex-vs-llm-structured-text",
-        "skills/search-first",
         "skills/team-agent-orchestration",
-        "skills/token-budget-advisor",
         "skills/team-builder",
         "skills/autonomous-agent-harness",
         "skills/hermes-imports",
@@ -883,7 +848,6 @@
         "skills/network-config-validation",
         "skills/network-interface-health",
         "skills/canary-watch",
-        "skills/flox-environments",
         "skills/homelab-pihole-dns",
         "skills/homelab-vlan-segmentation",
         "skills/homelab-wireguard-vpn",
