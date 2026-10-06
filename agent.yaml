@@ -12,16 +12,13 @@ skills:
   - agent-architecture-audit
   - agent-eval
   - agent-harness-construction
-  - agent-payment-x402
   - agentic-engineering
-  - agentic-os
   - ai-first-engineering
   - ai-regression-testing
   - android-clean-architecture
   - api-design
   - architecture-decision-records
   - article-writing
-  - autonomous-loops
   - backend-patterns
   - benchmark
   - blueprint
@@ -29,7 +26,6 @@ skills:
   - bun-runtime
   - canary-watch
   - carrier-relationship-management
-  - ck
   - claude-devfleet
   - click-path-audit
   - clickhouse-io
@@ -43,13 +39,11 @@ skills:
   - context-budget
   - continuous-agent-loop
   - continuous-learning
-  - continuous-learning-v2
   - cost-aware-llm-pipeline
   - cpp-coding-standards
   - cpp-testing
   - crosspost
   - customs-trade-compliance
-  - data-scraper-agent
   - database-migrations
   - deep-research
   - deployment-patterns
@@ -66,8 +60,6 @@ skills:
   - enterprise-agent-ops
   - error-handling
   - eval-harness
-  - exa-search
-  - fal-ai-media
   - flutter-dart-code-review
   - foundation-models-on-device
   - frontend-patterns
@@ -105,12 +97,10 @@ skills:
   - motion-patterns
   - nanoclaw-repl
   - nextjs-turbopack
-  - nutrient-document-processing
   - nuxt4-patterns
   - perl-patterns
   - perl-security
   - perl-testing
-  - plankton-code-quality
   - plan-canvas
   - plan-orchestrate
   - postgres-patterns
@@ -140,7 +130,6 @@ skills:
   - santa-method
   - search-first
   - security-review
-  - security-scan
   - skill-comply
   - skill-stocktake
   - springboot-patterns
@@ -161,15 +150,12 @@ skills:
   - unified-memory
   - verification-loop
   - video-editing
-  - videodb
-  - visa-doc-translate
   - x-api
 commands:
   - aside
   - auto-update
   - build-fix
   - checkpoint
-  - code-review
   - cost-report
   - cpp-build
   - cpp-review
@@ -200,7 +186,6 @@ commands:
   - hookify-help
   - hookify-list
   - instinct-export
-  - instinct-import
   - instinct-status
   - jira
   - kotlin-build
@@ -212,11 +197,6 @@ commands:
   - loop-status
   - marketing-campaign
   - model-route
-  - multi-backend
-  - multi-execute
-  - multi-frontend
-  - multi-plan
-  - multi-workflow
   - orch-add-feature
   - orch-build-mvp
   - orch-change-feature
@@ -248,9 +228,7 @@ commands:
   - rust-build
   - rust-review
   - rust-test
-  - santa-loop
   - save-session
-  - security-scan
   - sessions
   - setup-pm
   - skill-create
@@ -262,7 +240,6 @@ commands:
 tags:
   - agent-harness
   - developer-tools
-  - code-review
   - testing
   - security
   - cross-platform
