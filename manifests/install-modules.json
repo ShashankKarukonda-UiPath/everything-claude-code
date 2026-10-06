@@ -366,9 +366,7 @@
         "kimi",
         "adal"
       ],
-      "dependencies": [
-        "skill-unified-memory"
-      ],
+      "dependencies": [],
       "defaultInstall": true,
       "cost": "medium",
       "stability": "stable"
